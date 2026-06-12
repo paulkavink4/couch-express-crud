@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "couchbase": "^4.7.0",
+    "express": "^5.2.1",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.9.3",
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
