@@ -1,4 +1,4 @@
-# 📘 Day 8 – TypeScript + Express + CouchBase (Full CRUD API)
+# 📘 Day 10 – TypeScript + Express + CouchBase (Full CRUD API)
 
 ## 🗂️ Topics Covered
 
@@ -163,4 +163,4 @@ router.delete("/delete/:id", deleteByID)   // DELETE
 - Configured **strict TypeScript ESModule** setup with `tsconfig.json` and `"type":"module"`.
 
 > **Stack:** TypeScript · Node.js · Express.js · CouchBase Capella  
-> **Day:** 8 of TypeScript Fundamentals
+> **Day:** 10 of TypeScript Fundamentals
